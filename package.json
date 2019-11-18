@@ -1,0 +1,26 @@
+{
+  "name": "npm-lab",
+  "version": "1.0.0",
+  "description": "color clock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mzakzook/npm-lab.git"
+  },
+  "keywords": [
+    "color",
+    "clock"
+  ],
+  "author": "max zakzook",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/mzakzook/npm-lab/issues"
+  },
+  "homepage": "https://github.com/mzakzook/npm-lab#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
